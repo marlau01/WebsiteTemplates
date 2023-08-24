@@ -48,8 +48,9 @@ a:hover {
 	}
 #header {
 	height:140px;
-	background:url(images/bg-header.jpg) no-repeat;
+	background:url(./Assets/koryaksky-volcano-2790656_1280.jpg) no-repeat center center;
 	}
+
 #menu {
 	height:35px;
 	line-height:35px;
@@ -170,13 +171,14 @@ a:hover {
 /* Heading's */
 
 h1 {
-	font-size:2.5em;
-	font-weight:normal;
+	font-size:3em;
+	font-weight:bold;
+	font-family: sans-serif;
 	cursor:default;
 	position:relative; top:50px; left:30px;
 	letter-spacing:1px;
-	color:#aaaaaa;
-	font-style:italic;
+	color:#91ebff;
+	text-shadow: 0.5px;
 	}
 
 /* Feed */
