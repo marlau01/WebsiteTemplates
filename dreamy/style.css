@@ -150,14 +150,22 @@ a:hover {
 	}
 
 /* Footer */
+footer {
+	padding-bottom: 50px;
+}
 
 #footer-valid {
-	float:left;
-	padding-top:55px;
+	/* float:left; */
+	padding-top:35px;
 	padding-left:20px;
 	cursor:default;
 	color:#ffffff;
 	}
+#footer-valid p {
+	padding: 0px;
+	margin: 0px;
+}
+
 #footer-valid a {
 	color:#ffffff;
 	text-decoration:none;
